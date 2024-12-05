@@ -1,0 +1,23 @@
+.visualization-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  .month-label {
+    cursor: default; 
+  }
+  .axis path,
+  .axis line {
+    stroke: #000;
+  }
+  .legend rect {
+    stroke: #000;
+    stroke-width: 0.5;
+  }
+  .tooltip {
+    pointer-events: none;
+    font-size: 12px;
+    color: #333;
+  }
+  
+  
